@@ -1,0 +1,6 @@
+C:\Users\Curso\source\repos\borrartest\AcademyLogDll\bin\Debug\netcoreapp2.1\AcademyLogDll.deps.json
+C:\Users\Curso\source\repos\borrartest\AcademyLogDll\bin\Debug\netcoreapp2.1\AcademyLogDll.dll
+C:\Users\Curso\source\repos\borrartest\AcademyLogDll\obj\Debug\netcoreapp2.1\AcademyLogDll.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\borrartest\AcademyLogDll\obj\Debug\netcoreapp2.1\AcademyLogDll.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\borrartest\AcademyLogDll\obj\Debug\netcoreapp2.1\AcademyLogDll.AssemblyInfoInputs.cache
+C:\Users\Curso\source\repos\borrartest\AcademyLogDll\obj\Debug\netcoreapp2.1\AcademyLogDll.AssemblyInfo.cs
