@@ -1,0 +1,9 @@
+C:\Users\Curso\source\repos\Academia_Softtek\Logs_Core\AcademyLogDll\bin\Release\netcoreapp2.1\AcademyLogDll.deps.json
+C:\Users\Curso\source\repos\Academia_Softtek\Logs_Core\AcademyLogDll\bin\Release\netcoreapp2.1\AcademyLogDll.dll
+C:\Users\Curso\source\repos\Academia_Softtek\Logs_Core\AcademyLogDll\bin\Release\netcoreapp2.1\AcademyLogDll.pdb
+C:\Users\Curso\source\repos\Academia_Softtek\Logs_Core\AcademyLogDll\obj\Release\netcoreapp2.1\AcademyLogDll.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\Academia_Softtek\Logs_Core\AcademyLogDll\obj\Release\netcoreapp2.1\AcademyLogDll.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\Academia_Softtek\Logs_Core\AcademyLogDll\obj\Release\netcoreapp2.1\AcademyLogDll.AssemblyInfoInputs.cache
+C:\Users\Curso\source\repos\Academia_Softtek\Logs_Core\AcademyLogDll\obj\Release\netcoreapp2.1\AcademyLogDll.AssemblyInfo.cs
+C:\Users\Curso\source\repos\Academia_Softtek\Logs_Core\AcademyLogDll\obj\Release\netcoreapp2.1\AcademyLogDll.dll
+C:\Users\Curso\source\repos\Academia_Softtek\Logs_Core\AcademyLogDll\obj\Release\netcoreapp2.1\AcademyLogDll.pdb

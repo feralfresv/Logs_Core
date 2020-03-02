@@ -12559,11 +12559,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Curso\\source\\repos\\borrartest\\webapicore2\\webapicore2.csproj",
+      "projectUniqueName": "C:\\Users\\Curso\\source\\repos\\Academia_Softtek\\Logs_Core\\webapicore2\\webapicore2.csproj",
       "projectName": "webapicore2",
-      "projectPath": "C:\\Users\\Curso\\source\\repos\\borrartest\\webapicore2\\webapicore2.csproj",
+      "projectPath": "C:\\Users\\Curso\\source\\repos\\Academia_Softtek\\Logs_Core\\webapicore2\\webapicore2.csproj",
       "packagesPath": "C:\\Users\\Curso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Curso\\source\\repos\\borrartest\\webapicore2\\obj\\",
+      "outputPath": "C:\\Users\\Curso\\source\\repos\\Academia_Softtek\\Logs_Core\\webapicore2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

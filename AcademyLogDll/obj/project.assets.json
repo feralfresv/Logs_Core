@@ -722,11 +722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Curso\\source\\repos\\borrartest\\AcademyLogDll\\AcademyLogDll.csproj",
+      "projectUniqueName": "C:\\Users\\Curso\\source\\repos\\Academia_Softtek\\Logs_Core\\AcademyLogDll\\AcademyLogDll.csproj",
       "projectName": "AcademyLogDll",
-      "projectPath": "C:\\Users\\Curso\\source\\repos\\borrartest\\AcademyLogDll\\AcademyLogDll.csproj",
+      "projectPath": "C:\\Users\\Curso\\source\\repos\\Academia_Softtek\\Logs_Core\\AcademyLogDll\\AcademyLogDll.csproj",
       "packagesPath": "C:\\Users\\Curso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Curso\\source\\repos\\borrartest\\AcademyLogDll\\obj\\",
+      "outputPath": "C:\\Users\\Curso\\source\\repos\\Academia_Softtek\\Logs_Core\\AcademyLogDll\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
